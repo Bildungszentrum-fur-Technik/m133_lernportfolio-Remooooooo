@@ -4,19 +4,19 @@
 
 ### Woche 10 - 04.11.2021
 
-In dieser Woche ging es um die Vorgaben der [LB2](LB2/Abgabe1) und wieder um die selbständige Arbeit der [LB1](LB1/Abgabe1).
+In dieser Woche ging es um die Vorgaben der [LB2](LB2/Abgabe2/readme.md) und wieder um die selbständige Arbeit der [LB1](LB1/Abgabe1/readme.md).
 
 ---
 
 ### Woche 9 - 28.10.2021
 
-In dieser Woche ging war Herr Inauen krank und wir haben selbständig an der [LB1](LB1/Abgabe1) gearbeitet.
+In dieser Woche ging war Herr Inauen krank und wir haben selbständig an der [LB1](LB1/Abgabe1/readme.md) gearbeitet.
 
 ---
 
 ### Woche 8 - 07.10.2021
 
-In dieser Woche ging es um die LB Vorgaben. Jene sind hier zu finden. [LB1](LB1/Abgabe1) [LB2](LB2/Abgabe1)
+In dieser Woche ging es um die LB Vorgaben. Jene sind hier zu finden. [LB1](LB1/Abgabe1/readme.md) [LB2](LB2/Abgabe1/readme.md)
 
 ---
 
