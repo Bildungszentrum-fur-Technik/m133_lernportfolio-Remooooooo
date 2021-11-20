@@ -1,4 +1,4 @@
-# Concept Map Abgabe 1
+# Concept Map Abgabe 2
 
 ## Zu verwendende Begriffe
 
@@ -14,23 +14,23 @@
 @startuml
 (if-Funktion bei Twig) as (IfTwig)
 note right of (IfTwig) 
-Wird gleich angewendet wie bei anderen Programmiersprachen um Dynamische Websiten zu erstellen
+Wird gleich angewendet wie bei anderen Programmiersprachen um dynamische Websiten zu erstellen
 end note
 (Mocking von Daten) as (Mocking)
 note right of (Mocking)
-Eine Art von Unit Testing, das faken von Daten
+Das simulieren von Daten, wenn keine Datenbank vorhanden ist
 end note
 (Rendern von View) as (rendern)
 note right of (rendern)
-Die Injektion der View in den Controller
+Generieren der View mit Daten aus dem Controller
 end note
 (empty-Funktion) as (empty)
 note right of (empty)
 Überprüft, ob eine Variable leer ist oder nicht
 end note
-(santizen von Dlaten) as (santizen)
-note right of (santizen)
-Definition von einem Datentyp
+(sanitizen von Dlaten) as (sanitizen)
+note right of (sanitizen)
+Entfernen aller nicht passenden Zeichen des Datentyps
 end note
 
 note "Kann benutzt werden als Überprüfung für das ausführen der Verzweigung" as NoteIf
@@ -41,11 +41,17 @@ note "Gemockte Daten werden in der View dargestellt" as NoteMock
 (Mocking) --> NoteMock
 NoteMock --> (rendern)
 
-note "If Funktionen werden in der View verwendet" as NoteView
+note "If Funktionen beeinflussen das Rendern der View" as NoteView
 (IfTwig) --> NoteView
 NoteView --> (rendern)
 
+note "Kann benutzt werden, um zu überprüfen ob nach dem sanitizen der Daten noch Daten vorhanden sind" as NoteSani
+(empty) --> NoteSani
+NoteSani --> (sanitizen)
 
+note "Daten können das Ergebniss des If beinflussen" as NoteIfMock
+(Mocking) --> NoteIfMock
+NoteIfMock --> (IfTwig)
 
 @enduml
 ```
