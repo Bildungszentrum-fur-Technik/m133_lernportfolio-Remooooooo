@@ -2,9 +2,21 @@
 
 ---
 
+### Woche 12 - 18.11.2021
+
+In dieser Woche haben das letzte mal vor der Abgabe selbständig an der LB2 gearbeitet. Ich habe die [Concept Map](LB2/Abgabe2/ConceptMap.md)erstellt.
+
+---
+
+### Woche 11 - 11.11.2021
+
+In dieser Woche haben wir selbständig an der [LB2](LB2/Abgabe2/readme.md) gearbeitet.
+
+---
+
 ### Woche 10 - 04.11.2021
 
-In dieser Woche ging es um die Vorgaben der [LB2](LB2/Abgabe2/readme.md) und wieder um die selbständige Arbeit der [LB1](LB1/Abgabe1/readme.md).
+In dieser Woche ging es um die Vorgaben der [LB2](LB2/Abgabe2/readme.md) und wieder um die selbständige Arbeit der [LB1](LB1/Abgabe2/readme.md).
 
 ---
 
