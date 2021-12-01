@@ -1,4 +1,4 @@
-# Abgabe 2
+# Abgabe 3
 
 Die Abgabe 3 der LB1 besteht aus:
 
