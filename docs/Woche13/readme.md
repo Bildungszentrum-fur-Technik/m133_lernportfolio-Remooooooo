@@ -1,4 +1,4 @@
-# Woche 12
+# Woche 13
 
 In dieser Woche haben wir uns mit den Datenbanken beschäftigt. Es gab einen grösseren Theorieblock zu neuen Themen.
 

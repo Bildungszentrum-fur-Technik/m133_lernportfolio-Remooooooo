@@ -1,5 +1,9 @@
 # Dokumentation Remo Stark
 
+### Woche 13 - 25.11.2021
+
+In dieser Woche haben wir uns mit den Datenbanken beschäftigt. Es gab einen grösseren Theorieblock zu neuen Themen. Ich habe die Dokumentation zu [SQLScripts](Woche13/SQLScripts.md) und [PreparedStatements](Woche13/PreparedStatements.md) angefangen zu erstellen zu.
+
 ---
 
 ### Woche 12 - 18.11.2021
