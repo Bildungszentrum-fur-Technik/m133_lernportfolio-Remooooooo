@@ -1,5 +1,19 @@
 # Dokumentation Remo Stark
 
+### Woche 15 - 09.12.2021
+
+In dieser Woche hatten wir die ÜK besprechung. Danach blieb uns ein wenig Zeit um weiter zu arbeiten.
+
+Ich habe in dieser Zeit die [Validierung](Woche15/readme.md) für mein Projekt überarbeitet, da mir in der letzten Abgabe dort Punkte gefehlt haben.
+
+---
+
+### Woche 14 - 02.12.2021
+
+In dieser Woche gab es einen [Theorieblock](Woche14/readme.md) über Sessions, Cookies und Regex.
+
+---
+
 ### Woche 13 - 25.11.2021
 
 In dieser Woche haben wir uns mit den Datenbanken beschäftigt. Es gab einen grösseren Theorieblock zu neuen Themen. Ich habe die Dokumentation zu [SQLScripts](Woche13/SQLScripts.md) und [PreparedStatements](Woche13/PreparedStatements.md) angefangen zu erstellen zu.
