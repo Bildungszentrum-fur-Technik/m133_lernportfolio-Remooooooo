@@ -1,5 +1,13 @@
 # Dokumentation Remo Stark
 
+### Woche 16 - 16.12.2021
+
+In dieser Woche habe ich das Concept Map erstellt.
+
+Des weiteren habe ich die [Umsetzung](LB1/Abgabe4/readme.md) der LB1 Abgabe 4 dokumentiert und angefangen zu programmieren.
+
+---
+
 ### Woche 15 - 09.12.2021
 
 In dieser Woche hatten wir die ÜK besprechung. Danach blieb uns ein wenig Zeit um weiter zu arbeiten.
